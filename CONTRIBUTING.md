@@ -2,6 +2,8 @@
 
 Contributing is fairly easy; all you have to do is write. It is preferred that you use Microsoft Word (if you don't, well, I can't guarantee that the exports are going to line up).
 
+There really is only one rule that stands out: please don't commit small snippets of code. If you've made a little typo, there's no need to create an entire commit just to fix it (unless it's the last stage of development and it's all you could find). Just keep writing, and get off at the next stop, metaphorically.
+
 ## Issues/Pull Requests
 
 ### Tags
@@ -22,6 +24,10 @@ This marks the issue as explaining a typo in the manuscript/pull request as fixi
 #### `discrepancy`
 
 This marks that the affected segment deviates from the movie. This isn't a bad thing 100% of the time, but make sure not to stray too far; remember that the very purpose of this story is to be a recreation of the original movie.
+
+#### `important`
+
+This marks that the issue/pull request is, well, important and should be given more attention than normal. Use this sparingly.
 
 ### Format
 
