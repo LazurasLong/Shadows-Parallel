@@ -1,8 +1,12 @@
 # Contributing
 
-Contributing is fairly easy; all you have to do is write. It is preferred that you use Microsoft Word (if you don't, well, I can't guarantee that the exports are going to line up).
+Contributing is fairly easy; all you have to do is write. It is preferred that you use Microsoft Word (if you don't, well, I can't guarantee that the exports are going to line up), and to export the document use [https://word2cleanhtml.com/]. Be sure to check all of the boxes.
 
-There really is only one rule that stands out: please don't commit small snippets of code. If you've made a little typo, there's no need to create an entire commit just to fix it (unless it's the last stage of development and it's all you could find). Just keep writing, and get off at the next stop, metaphorically.
+Just follow these simple rules and there shouldn't be a problem:
+
+- Please don't commit small snippets of code. If you've made a little typo, there's no need to create an entire commit just to fix it (unless it's the last stage of development and it's all you could find). Just keep writing, and get off at the next stop, metaphorically.
+- Do not use comments in the document, as they show up on the document and look unprofessional. Use Github's issue system instead.
+
 
 ## Issues/Pull Requests
 
